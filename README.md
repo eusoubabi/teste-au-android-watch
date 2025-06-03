@@ -1,5 +1,5 @@
 # 🚀Teste automatizado Android utilizando Appium +WebdriverIO +TypeScript + Allure. 
-
+![Status](https://img.shields.io/badge/Status-Em%20progresso-yellow)
 
 Iniciei esse teste para automatizar minhas atividades profissionais, que envolvem testes de plataforma no device Samsung.
 
